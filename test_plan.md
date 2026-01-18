@@ -26,4 +26,4 @@ To verify the functionality, usability, and reliability of the flight booking we
 - Critical defects reported
 
 ## Roles & Responsibility
-- Tester: Arpita Laddha
+- Tester: Krushi V B
